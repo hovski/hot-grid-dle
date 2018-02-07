@@ -24,4 +24,12 @@ body {
 .img-flex {
   display: block;
   width: 100%;
+  position: relative;
+}
+
+p {
+  max-width: 15em;
+  position: absolute;
+  left: .5rem;
+  bottom: .5rem;
 }
