@@ -39,6 +39,9 @@ figcaption {
   color: white;
   background-color: rgba(0, 0, 0, .5);
   line-height: 1.3;
-  padding: .5rem;
   border-radius: 8px;
+}
+
+p {
+  margin: 0 auto;
 }
